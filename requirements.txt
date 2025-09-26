@@ -1,0 +1,17 @@
+# requirements.txt
+
+# Core web framework
+streamlit
+
+# Data manipulation and numerical operations
+pandas
+numpy
+
+# Plotting and visualization
+plotly
+
+# Machine learning for predictive maintenance
+scikit-learn
+
+# Optional: For MQTT IoT data ingestion
+paho-mqtt
